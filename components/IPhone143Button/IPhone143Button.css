@@ -1,0 +1,216 @@
+.iphone-14-3-button {
+  align-items: center;
+  background-color: #fbf6f0;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 844px;
+  overflow: hidden;
+  width: 390px;
+}
+
+.overlap-group-container {
+  align-self: flex-end;
+  height: 251px;
+  margin-right: -168px;
+  margin-top: -46px;
+  position: relative;
+  width: 532px;
+}
+
+.overlap-group1 {
+  height: 251px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 532px;
+}
+
+.undraw_anonymous_feedback_re_rc5v-1 {
+  height: 243px;
+  left: 268px;
+  position: absolute;
+  top: 0;
+  width: 264px;
+}
+
+.user {
+  color: var(--black);
+  direction: rtl;
+  font-family: var(--font-family-cairo);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  left: 97px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 157px;
+  width: 224px;
+}
+
+.overlap-group3 {
+  height: 36px;
+  left: 0;
+  position: absolute;
+  top: 112px;
+  width: 38px;
+}
+
+.ellipse-17 {
+  cursor: pointer;
+  height: 36px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 38px;
+}
+
+.arrow-2 {
+  height: 1px;
+  left: 8px;
+  position: absolute;
+  top: 17px;
+  width: 21px;
+}
+
+.overlap-group2 {
+  height: 78px;
+  margin-right: 0.98px;
+  margin-top: 7px;
+  position: relative;
+  width: 227px;
+}
+
+.rectangle-2 {
+  background-color: var(--alto);
+  border-radius: 35px;
+  cursor: pointer;
+  height: 52px;
+  left: 0;
+  position: absolute;
+  top: 26px;
+  width: 213px;
+}
+
+.text-2 {
+  direction: rtl;
+  left: 42px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  width: 160px;
+}
+
+.vector {
+  cursor: pointer;
+  height: 62px;
+  left: 191px;
+  position: absolute;
+  top: 16px;
+  width: 36px;
+}
+
+.vector-1 {
+  height: 16px;
+  left: 202px;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+
+.vector-2 {
+  height: 55px;
+  left: 209px;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.overlap-group {
+  height: 131px;
+  margin-left: 1.02px;
+  margin-top: 6px;
+  position: relative;
+  width: 233px;
+}
+
+.rectangle-3 {
+  background-color: var(--alto);
+  border-radius: 35px;
+  cursor: pointer;
+  height: 52px;
+  left: 2px;
+  position: absolute;
+  top: 77px;
+  width: 213px;
+}
+
+.vector-3 {
+  cursor: pointer;
+  height: 62px;
+  left: 197px;
+  position: absolute;
+  top: 69px;
+  width: 36px;
+}
+
+.vector-4 {
+  height: 16px;
+  left: 208px;
+  position: absolute;
+  top: 53px;
+  width: 14px;
+}
+
+.vector-5 {
+  height: 21px;
+  left: 215px;
+  position: absolute;
+  top: 59px;
+  width: 1px;
+}
+
+.text-3 {
+  direction: rtl;
+  left: 31px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 76px;
+  width: 198px;
+}
+
+.text-5 {
+  direction: rtl;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 232px;
+}
+
+.text-4 {
+  direction: rtl;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 1.0px;
+  margin-top: 8px;
+  min-height: 60px;
+  text-align: center;
+  width: 275px;
+}
+
+.vector-3-1 {
+  align-self: flex-start;
+  height: 335px;
+  margin-left: -131px;
+  margin-top: 41px;
+  width: 557px;
+}
+
